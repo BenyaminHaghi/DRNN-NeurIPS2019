@@ -1,6 +1,7 @@
 # Created by: Benyamin Haghi, California Institute of Technology (Caltech)
 # benyamin.a.haghi@caltech.edu
 # 26 Oct 2019
+# CUDA GPU version
 
 #############################################Import Libraries########################################
 #from __future__ import print_function
