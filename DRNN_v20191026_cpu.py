@@ -760,7 +760,7 @@ start = time.time()
 
 ########################### 3. Data Loading
 
-data_dir = './my_data'
+data_dir = './my_data/'
 matlab_data = sio.loadmat(data_dir+'Neural_features_targets.mat')
 neural_data = matlab_data['y']
 targets = matlab_data['x_valid']
